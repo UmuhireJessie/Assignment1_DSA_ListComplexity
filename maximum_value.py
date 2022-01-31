@@ -36,4 +36,5 @@ def printing_result():
     print(random_list(10))
 
 
+# calling a function that prints the result
 printing_result()
